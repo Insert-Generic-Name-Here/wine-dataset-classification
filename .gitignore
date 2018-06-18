@@ -1,2 +1,6 @@
 
 \.ipynb_checkpoints/
+
+csv_cache/
+
+numpy_cache/

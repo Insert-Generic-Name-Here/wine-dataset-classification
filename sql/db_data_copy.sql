@@ -1,0 +1,2 @@
+COPY vinho_verde_red FROM 'C:\Users\This PC\Documents\Coding\Python\wine-dataset-classification\winequality-red.csv' WITH (FORMAT csv, DELIMITER ';', HEADER true);
+COPY vinho_verde_white FROM 'C:\Users\This PC\Documents\Coding\Python\wine-dataset-classification\winequality-white.csv' WITH (FORMAT csv, DELIMITER ';', HEADER true);
